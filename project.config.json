@@ -17,7 +17,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.10.1",
 	"appid": "wxee8af3ad01400ec9",
-	"projectname": "demo",
+	"projectname": "tocc-cv",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
